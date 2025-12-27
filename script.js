@@ -40,7 +40,7 @@ const questions = [
   {q:"Superficial venous thrombosis cannot be clinically differentiated from DVT alone.", a:false},
   {q:"Doppler ultrasound is a rapid, safe, and preferred tool for diagnosing DVT in pregnancy.", a:true},
   {q:"Duplex and color Doppler are accurate modalities for DVT diagnosis.", a:true},
-  {q:"Ascending venography is not mentioned as a diagnostic tool.", a:true},
+  {q:"Ascending venography is not mentioned as a diagnostic tool.", a: false},
   {q:"Post-operative passive leg exercises help reduce DVT risk.", a:true},
   {q:"Prophylactic anticoagulants may be used in high-risk pregnant patients.", a:true},
   {q:"Active treatment of DVT includes bed rest initially followed by mobilization and anticoagulants.", a:true}
