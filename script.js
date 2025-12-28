@@ -35,7 +35,7 @@ const questions = [
   {q:"Treatment of DIC follows the 4F approach: fresh blood, plasma, fibrinogen, and fibrinolytic inhibitors.", a:true},
   {q:"Virchow’s triad includes circulatory stasis, vascular damage, and hypercoagulability.", a:true},
   {q:"Risk factors for DVT include smoking, obesity, hypertension, cesarean delivery, dehydration, and infection.", a:true},
-  {q:"Pulmonary embolism complicates 50% of DVT cases and has a maternal mortality of about 30%.", a:false},
+  {q:"Pulmonary embolism complicates 50% of DVT cases and has a maternal mortality of about 30%.", a:true},
   {q:"DVT may be asymptomatic and typically presents post-operatively with leg pain, edema, fever, and Homan’s sign.", a:true},
   {q:"Superficial venous thrombosis cannot be clinically differentiated from DVT alone.", a:false},
   {q:"Doppler ultrasound is a rapid, safe, and preferred tool for diagnosing DVT in pregnancy.", a:true},
